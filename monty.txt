@@ -1,1 +1,2 @@
-"Monty is a good boy"
+"Monty is a good boy".
+"Monty is also lazy".
